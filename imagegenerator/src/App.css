@@ -1,0 +1,18 @@
+.outerdiv{
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+    min-height: max-content;
+}
+.imagediv{
+    width: 30%;
+    margin: auto;
+    height: 300px;
+}
+.imagediv img {
+    height: 250px;
+    width: 450px;
+}
